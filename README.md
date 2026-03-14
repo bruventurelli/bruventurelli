@@ -9,7 +9,11 @@ Busco minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário, par
 ## Projetos em desenvolvimento
 
 - Aplicativo de Jiu-Jitsu (em fase inicial de desenvolvimento)
-- Lista com 100 exercícios em Python para iniciantes  
+- Lista com 100 exercícios em Python para iniciantes
+- 
+- ## 📜 Certificações
+
+- 🐍 Python - Santander Academy (2026)
 
 ## Tecnologias em estudo
 
