@@ -14,7 +14,7 @@ Busco minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário, par
   
  ## 📜 Certificações
 
-- 🐍 Python - Santander Academy (2026)
+- Python - Santander Academy (2026)
 
 
 ## Tecnologias em estudo
