@@ -1,16 +1,32 @@
-## Hi there 👋
+# Bruno Venturelli
 
-<!--
-**bruventurelli/bruventurelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do 1º semestre de Análise e Desenvolvimento de Sistemas, construindo base sólida em lógica de programação, JavaScript, HTML, CSS e Python.
 
-Here are some ideas to get you started:
+## Objetivo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Busco minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário, para adquirir experiência profissional, aprofundar meus conhecimentos técnicos e evoluir gradualmente até atuar como Desenvolvedor Full Stack.
+
+## Projetos em desenvolvimento
+
+- Aplicativo de Jiu-Jitsu (em fase inicial de desenvolvimento)
+- Lista com 100 exercícios em Python para iniciantes  
+  Atualmente: 10 exercícios concluídos
+
+## Tecnologias em estudo
+
+- Lógica de programação  
+- JavaScript  
+- HTML e CSS  
+- Python  
+
+## Idiomas
+
+- Inglês: Nativo  
+- Espanhol: Avançado  
+- Francês: 3 anos de estudo  
+
+## Compromisso
+
+Tenho como prioridade desenvolver consistência, disciplina e domínio técnico através da prática contínua e da construção de projetos reais.
+
+---
