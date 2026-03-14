@@ -12,7 +12,7 @@ Busco minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário, par
 - Lista com 100 exercícios em Python para iniciantes
 
   
- ## 📜 Certificações
+ ## Certificações
 
 - Python - Santander Academy (2026)
 
