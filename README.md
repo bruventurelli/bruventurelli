@@ -1,6 +1,6 @@
 # Bruno Venturelli
 
-Sou estudante do 1º semestre de Análise e Desenvolvimento de Sistemas, construindo base sólida em lógica de programação, JavaScript, HTML, CSS e Python.
+Sou estudante do 1º semestre de Análise e Desenvolvimento de Sistemas, construindo base sólida em lógica de programação, JavaScript, SQL e Python.
 
 ## Objetivo
 
