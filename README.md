@@ -6,11 +6,6 @@ Sou estudante do 1º semestre de Análise e Desenvolvimento de Sistemas, constru
 
 Busco minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário, para adquirir experiência profissional, aprofundar meus conhecimentos técnicos e evoluir gradualmente até atuar como Desenvolvedor Full Stack.
 
-## Projetos em desenvolvimento
-
-- Aplicativo de Jiu-Jitsu (em fase inicial de desenvolvimento)
-- Lista com 100 exercícios em Python para iniciantes
-
   
  ## Certificações
 
