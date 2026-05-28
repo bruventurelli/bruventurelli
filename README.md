@@ -16,14 +16,17 @@ Busco minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário, par
 
 - Lógica de programação  
 - JavaScript  
-- HTML e CSS  
-- Python  
+- SQL
+- Python
+- Engenharia de Prompt
+- UX/UI
+- Prototipagem de Sistemas Computacionais  
 
 ## Idiomas
 
 - Inglês: Nativo  
 - Espanhol: Avançado  
-- Francês: 3 anos de estudo  
+- Francês: Avançado
 
 ## Compromisso
 
