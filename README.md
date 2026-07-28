@@ -1,6 +1,6 @@
 # Olá, eu sou o Bruno Venturelli | Hi, I'm Bruno Venturelli
 
-Sou estudante do 1º semestre de Análise e Desenvolvimento de Sistemas, focado em construir uma base técnica sólida e aplicar meu conhecimento em projetos reais. Minha prioridade atual é desenvolver consistência, disciplina e domínio prático através do código.
+Sou estudante de Análise e Desenvolvimento de Sistemas, focado em construir uma base técnica sólida e aplicar meu conhecimento em projetos reais. Minha prioridade atual é desenvolver consistência, disciplina e domínio prático através do código.
 
 Busco minha primeira oportunidade como **Desenvolvedor Júnior** ou **Estagiário**, com o objetivo de aprofundar meus conhecimentos e evoluir gradualmente até atuar como **Desenvolvedor Full Stack**.
 
