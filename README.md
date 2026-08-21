@@ -1,52 +1,94 @@
-# Olá, eu sou o Bruno Venturelli | Hi, I'm Bruno Venturelli
+<h1 align="center">Bruno Venturelli</h1>
+<p align="center">
+  <a href="https://linkedin.com/in/bruno-venturelli">LinkedIn</a> &nbsp;&bull;&nbsp; 
+  <a href="https://github.com/bruventurelli">GitHub</a>
+</p>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, focado em construir uma base técnica sólida e aplicar meu conhecimento em projetos reais. Minha prioridade atual é desenvolver consistência, disciplina e domínio prático através do código.
+<br>
 
-Busco minha primeira oportunidade como **Desenvolvedor Júnior** ou **Estagiário**, com o objetivo de aprofundar meus conhecimentos e evoluir gradualmente até atuar como **Desenvolvedor Full Stack**.
-
----
-
-I am a Software Engineering / Computer Science student currently pursuing my degree in Systems Analysis and Development (1st Semester). My priority is developing consistency, discipline, and technical mastery through continuous practice and building real-world applications.
-
-I am actively seeking my first opportunity as a **Junior Developer** or **Intern** to expand my technical expertise and steadily grow into a **Full Stack Developer**.
-
----
-
-### Tecnologias & Competências | Tech Stack & Skills
-- **Linguagens / Languages:** JavaScript, Python, SQL, SQLite
-- **Inteligência Artificial & Frameworks / AI & Frameworks:** LangChain Core, LangChain Groq, Orquestração de LLMs (Llama 3.3) / LLM Orchestration (Llama 3.3)
-- **Design & Conceitos / Design & Concepts:** Engenharia de Prompt (Prompt Engineering), UX/UI, Prototipagem de Sistemas Computacionais (Computer Systems Prototyping)
-
----
-
-### Projetos em Destaque | Featured Projects
-
-- **[Chat-Bot-Bruno](https://github.com/bruventurelli/Chat-Bot-Bruno)**
-  - **PT:** Um chatbot em terminal especializado em exploração espacial com memória de contexto. Desenvolvido em Python, orquestrado via LangChain e alimentado pelo modelo Llama 3.3 70B através da API do Groq Cloud. Aplica gerenciamento de memória de sessão e engenharia de prompt customizada.
-  - **EN:** A terminal-based, context-aware chatbot persona specialized in space exploration. Built with Python, orchestrated via LangChain, and powered by Llama 3.3 70B via Groq Cloud API. Features session memory management and custom system prompting.
-
-- **[Sistema de Gestão de Estoque](https://github.com/bruventurelli/Trabalho-Gest-o-Estoque-05-26)**
-  - **PT:** Sistema profissional de controle de estoque baseado em terminal desenvolvido em Python, utilizando banco de dados relacional SQLite para persistência, queries parametrizadas para proteção contra SQL Injection, relatórios financeiros e exportação de dados para CSV.
-  - **EN:** A professional terminal-based inventory control system built in Python with SQLite relational database persistence, parameterized queries for SQL Injection protection, financial reporting, and CSV export.
-
-- **100 Exercícios em Python | 100 Python Exercises**
-  - **PT:** Desafio focado no fortalecimento da lógica de programação e resolução de problemas para iniciantes.
-  - **EN:** A challenge focused on strengthening programming logic and problem-solving skills for beginners.
-
----
-
-### Certificações | Certifications
-- Python — Santander Academy (2026)
-
----
-
-### Idiomas | Languages
-- **Inglês / English:** Nativo / Native
-- **Português / Portuguese:** Nativo / Native
-- **Espanhol / Spanish:** Avançado / Advanced
-- **Francês / French:** Avançado / Advanced
-
----
-
-### Contato | Connect with me
-- **LinkedIn:** [linkedin.com/in/bruno-venturelli-11a6b8225](https://www.linkedin.com/in/bruno-venturelli-11a6b8225/)
+<table>
+  <tr>
+    <th width="50%">Português (PT-BR)</th>
+    <th width="50%">English (EN)</th>
+  </tr>
+  <tr>
+    <td>
+      <strong>Perfil</strong><br>
+      Estudante de Análise e Desenvolvimento de Sistemas (UDF) com foco em DevSecOps, Cibersegurança e automação de infraestrutura. Experiência na construção de sistemas seguros, pipelines de mitigação e conformidade.
+    </td>
+    <td>
+      <strong>Profile</strong><br>
+      Systems Analysis and Development student (UDF) focused on DevSecOps, Cybersecurity, and infrastructure automation. Experienced in building secure systems, mitigation pipelines, and compliance standards.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Habilidades Técnicas</strong>
+      <ul>
+        <li><strong>Linguagens:</strong> Python (Avançado), Bash Scripting, SQL, Go</li>
+        <li><strong>Infra & DevSecOps:</strong> Docker, Linux CLI, Resposta a Incidentes</li>
+        <li><strong>Segurança:</strong> PCI-DSS, FIM, Criptografia SHA-256</li>
+        <li><strong>IA & Dados:</strong> Machine Learning (Isolation Forest)</li>
+      </ul>
+    </td>
+    <td>
+      <strong>Technical Skills</strong>
+      <ul>
+        <li><strong>Languages:</strong> Python (Advanced), Bash Scripting, SQL, Go</li>
+        <li><strong>Infra & DevSecOps:</strong> Docker, Linux CLI, Incident Response</li>
+        <li><strong>Security:</strong> PCI-DSS, FIM, SHA-256 Encryption</li>
+        <li><strong>AI & Data:</strong> Machine Learning (Isolation Forest)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Projetos Principais</strong>
+      <ul>
+        <li><strong>AegisLog-SecOps:</strong> Pipeline de SecOps com IA (Isolation Forest) para detecção de anomalias e resposta autônoma via <code>iptables</code> (MTTR < 2s).</li>
+        <li><strong>FIM-Sentinel-SecOps:</strong> Monitor de Integridade de Arquivos (FIM) em Python puro, aderente ao Requisito 11.5 da norma PCI-DSS.</li>
+      </ul>
+    </td>
+    <td>
+      <strong>Key Projects</strong>
+      <ul>
+        <li><strong>AegisLog-SecOps:</strong> AI-driven SecOps pipeline (Isolation Forest) for anomaly detection and automated <code>iptables</code> mitigation (MTTR < 2s).</li>
+        <li><strong>FIM-Sentinel-SecOps:</strong> Pure-Python File Integrity Monitor (FIM) aligned with PCI-DSS Requirement 11.5 standards.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Formação e Certificações</strong>
+      <ul>
+        <li>Graduação em ADS | UDF (Dez/2027)</li>
+        <li>Introduction to Cybersecurity | Cisco</li>
+        <li>Cybersecurity Fundamentals | IBM / Santander</li>
+      </ul>
+    </td>
+    <td>
+      <strong>Education & Certifications</strong>
+      <ul>
+        <li>B.Sc. in Systems Analysis | UDF (Dec/2027)</li>
+        <li>Introduction to Cybersecurity | Cisco</li>
+        <li>Cybersecurity Fundamentals | IBM / Santander</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Idiomas</strong>
+      <ul>
+        <li>Português (Nativo) | Inglês (Fluente)</li>
+        <li>Francês (B2) | Espanhol (B2)</li>
+      </ul>
+    </td>
+    <td>
+      <strong>Languages</strong>
+      <ul>
+        <li>Portuguese (Native) | English (Fluent)</li>
+        <li>French (B2) | Spanish (B2)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
